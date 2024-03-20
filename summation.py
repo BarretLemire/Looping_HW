@@ -32,7 +32,9 @@ def summation_for(n):
     return total_sum
 
 
-result = summation
+print(summation_while(2))
+
+print(summation_for(6))
 
 
 
